@@ -1,0 +1,235 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color:silver;
+}
+
+.navbar {
+    position: sticky;
+}
+
+#aside {
+    width: 124px;
+    height:312rem;
+    background-color: black;
+    border: 1px solid black;
+    padding: 6px;
+    text-align: left;
+    line-height: 1em;
+    float: left;
+    padding-top: 1rem;
+    position: relative;
+    margin-right: 1.2rem;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 0;
+}
+
+#text_aside {
+    position: fixed;
+    width: 124px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+
+#text_aside:hover {
+    color: silver;
+}
+
+.nav_split {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.nav_split:hover {
+    color: silver;
+}
+
+.nav_split:active {
+    color: silver;
+}
+
+
+.card {
+    border-radius:1em;
+    text-align: center;
+    padding: 1em;
+    width: 80%;
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .card:hover {
+    background-color: rgb(241, 241, 241);
+  }
+  
+  .card-img-top {
+      width: 90rem;
+      height: 45rem;
+      border-radius: 0;
+      
+  }
+  
+  .card > img {
+      border-radius: 10px;
+      align-items: center;
+      margin: auto;
+  }
+
+.btn:hover {
+      
+      background: rgb(0, 0, 0);
+      color: beige;
+  }
+  .btn {
+      background: rgb(241, 185, 3);
+      color: black;
+  }
+
+  #main {
+    float: right;
+    margin-right: 1rem;
+  }
+
+
+
+#footer {
+   
+    margin-bottom: 0;
+    border-bottom: 0;
+    margin-top: 0;
+    float: left;
+    background-color: black;
+    width: 112.2rem;
+    height: 6rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+
+}
+
+.container {
+    margin-left: -10rem;
+    align-items:left;
+}
+
+
+
+
+
+.witcher_main {
+    width: 109rem;
+    margin: 1.5rem;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+#w-p-1 {
+    width: 105rem;
+    height: 48rem;
+    border-radius: 10px;
+}
+
+.w-p-all {
+    width: 52rem;
+    height: 27rem;
+    padding: 0.5rem;
+    border-radius: 1em;
+}
+
+
+.masseffect_main {
+    width: 109rem;
+    margin: 1.5rem;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+#m-p-1 {
+    width: 105rem;
+    height: 48rem;
+    border-radius: 10px;
+}
+
+.m-p-all {
+    width: 52rem;
+    height: 27rem;
+    padding: 0.5rem;
+    border-radius: 1em;
+}
+
+
+.tlou_main {
+    width: 109rem;
+    margin: 1.5rem;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+#t-p-1 {
+    width: 105rem;
+    height: 48rem;
+    border-radius: 10px;
+}
+
+.t-p-all {
+    width: 52rem;
+    height: 27rem;
+    padding: 0.5rem;
+    border-radius: 1em;
+}
+
+
+.t2_main {
+    width: 109rem;
+    margin: 1.5rem;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+#t2-p-1 {
+    width: 105rem;
+    height: 48rem;
+    border-radius: 10px;
+}
+
+.t2-p-all {
+    width: 52rem;
+    height: 27rem;
+    padding: 0.5rem;
+    border-radius: 1em;
+}
+
+
+.rdr_main {
+    width: 109rem;
+    margin: 1.5rem;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+#r-p-1 {
+    width: 105rem;
+    height: 48rem;
+    border-radius: 10px;
+}
+
+.r-p-all {
+    width: 52rem;
+    height: 27rem;
+    padding: 0.5rem;
+    border-radius: 1em;
+}
+
